@@ -1,4 +1,6 @@
-﻿namespace CanvasDrawingApp
+//The CanvasDrawingApp was created using panel and some properties such as mousedown, mouseup, paint, Dock-fill ect. 
+//10951917
+namespace CanvasDrawingApp
 {
     partial class Form1
     {
