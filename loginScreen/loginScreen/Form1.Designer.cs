@@ -1,4 +1,5 @@
-#The loginScreen was created using tools such as textbox and button. #10951917
+//The loginScreen was created using tools such as textbox and button. 
+//10951917
 namespace loginScreen             
 {
     partial class Form1
